@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\omerb\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_PrawlersGame.-295164217.00" t="ExcludeRecursive" />
+    <e p="C:\Users\omerb\Documents\UnityProjects\PrawlersGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="infra" t="Include">
+          <e p="audio" t="Include">
+            <e p="AudioEvent.cs" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+            <e p="AudioPoolEvent.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AudioEventEditor.cs" t="Include" />
+            </e>
+            <e p="SimpleAudioEvent.cs" t="Include" />
+          </e>
+          <e p="camera" t="Include">
+            <e p="CameraResize.cs" t="Include" />
+          </e>
+          <e p="gameplay" t="Include">
+            <e p="EndlessWorldScroller.cs" t="Include" />
+            <e p="FollowX.cs" t="Include" />
+            <e p="LookaheadSmoothCameraFollow.cs" t="Include" />
+            <e p="PolygonColliderWithMesh.cs" t="Include" />
+            <e p="RotateByVelocity.cs" t="Include" />
+            <e p="UI" t="Include">
+              <e p="GameInputCapture.cs" t="Include" />
+            </e>
+          </e>
+          <e p="utils" t="Include">
+            <e p="DebugUtils.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="RangedFloatDrawer.cs" t="Include" />
+            </e>
+            <e p="MathsUtils.cs" t="Include" />
+            <e p="MinMaxRangeAttribute.cs" t="Include" />
+            <e p="RangedFloat.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Prawlers" t="Include">
+            <e p="Tiger.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="MonoSingleton.cs" t="Include" />
+          <e p="Triangulator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PrawlersGame.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

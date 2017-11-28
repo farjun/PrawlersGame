@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <ProjectGuid>{AD84D130-195A-F1D3-DB70-5098F1CA4B35}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -34,7 +38,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.XML" />
+    <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
@@ -46,44 +50,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ThirdParty\MonoSingleton.cs" />
-     <Compile Include="Assets\ThirdParty\Triangulator.cs" />
-     <Compile Include="Assets\infra\audio\AudioEvent.cs" />
-     <Compile Include="Assets\infra\audio\AudioManager.cs" />
-     <Compile Include="Assets\infra\audio\AudioPoolEvent.cs" />
-     <Compile Include="Assets\infra\audio\SimpleAudioEvent.cs" />
-     <Compile Include="Assets\infra\camera\CameraResize.cs" />
-     <Compile Include="Assets\infra\gameplay\EndlessWorldScroller.cs" />
-     <Compile Include="Assets\infra\gameplay\FollowX.cs" />
-     <Compile Include="Assets\infra\gameplay\LookaheadSmoothCameraFollow.cs" />
-     <Compile Include="Assets\infra\gameplay\PolygonColliderWithMesh.cs" />
-     <Compile Include="Assets\infra\gameplay\RotateByVelocity.cs" />
-     <Compile Include="Assets\infra\gameplay\UI\GameInputCapture.cs" />
-     <Compile Include="Assets\infra\utils\DebugUtils.cs" />
-     <Compile Include="Assets\infra\utils\MathsUtils.cs" />
-     <Compile Include="Assets\infra\utils\MinMaxRangeAttribute.cs" />
-     <Compile Include="Assets\infra\utils\RangedFloat.cs" />
- <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Networking">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.TestRunner">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
- </Reference>
- <Reference Include="nunit.framework">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.HoloLens">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.VR">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
- </Reference>
+    <Compile Include="Assets\Scripts\Prawlers\Tiger.cs" />
+    <Compile Include="Assets\ThirdParty\MonoSingleton.cs" />
+    <Compile Include="Assets\ThirdParty\Triangulator.cs" />
+    <Compile Include="Assets\infra\audio\AudioEvent.cs" />
+    <Compile Include="Assets\infra\audio\AudioManager.cs" />
+    <Compile Include="Assets\infra\audio\AudioPoolEvent.cs" />
+    <Compile Include="Assets\infra\audio\SimpleAudioEvent.cs" />
+    <Compile Include="Assets\infra\camera\CameraResize.cs" />
+    <Compile Include="Assets\infra\gameplay\EndlessWorldScroller.cs" />
+    <Compile Include="Assets\infra\gameplay\FollowX.cs" />
+    <Compile Include="Assets\infra\gameplay\LookaheadSmoothCameraFollow.cs" />
+    <Compile Include="Assets\infra\gameplay\PolygonColliderWithMesh.cs" />
+    <Compile Include="Assets\infra\gameplay\RotateByVelocity.cs" />
+    <Compile Include="Assets\infra\gameplay\UI\GameInputCapture.cs" />
+    <Compile Include="Assets\infra\utils\DebugUtils.cs" />
+    <Compile Include="Assets\infra\utils\MathsUtils.cs" />
+    <Compile Include="Assets\infra\utils\MinMaxRangeAttribute.cs" />
+    <Compile Include="Assets\infra\utils\RangedFloat.cs" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>C:/Program Files/Unity/Editor\Data/Managed/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -93,5 +98,4 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  
 </Project>

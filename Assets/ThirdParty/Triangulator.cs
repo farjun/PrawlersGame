@@ -6,10 +6,12 @@ public static class Triangulator {
         List<int> indices = new List<int>();
 
         int n = points.Length;
+        
         if (n < 3)
             return indices.ToArray();
 
         int[] V = new int[n];
+        
         if (Area(points) > 0) {
             for (int v = 0; v < n; v++)
                 V[v] = v;
