@@ -1,7 +1,5 @@
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp-Editor.dll
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.dll
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\nunit.framework.dll
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.Advertisements.dll
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.Analytics.dll
@@ -31,8 +29,6 @@ C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.i
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Unity.CecilTools.dll
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp.pdb
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.Advertisements.xml
@@ -51,5 +47,7 @@ C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.P
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.VR.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.VR.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor.dll
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
+C:\Users\omerb\Documents\UnityProjects\PrawlersGame\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb

@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Prawlers\Tiger.cs" />
+    <Compile Include="Assets\Scripts\Prawlers\TigerController.cs" />
     <Compile Include="Assets\ThirdParty\MonoSingleton.cs" />
     <Compile Include="Assets\ThirdParty\Triangulator.cs" />
     <Compile Include="Assets\infra\audio\AudioEvent.cs" />

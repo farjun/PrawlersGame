@@ -22,7 +22,6 @@ C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEditor.x
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
-C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\nunit.framework.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\omerb\Documents\UnityProjects\PrawlersGame\Temp\bin\Debug\UnityEngine.VR.xml
