@@ -50,6 +50,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Prawlers\Antilope.cs" />
     <Compile Include="Assets\Scripts\Prawlers\Tiger.cs" />
     <Compile Include="Assets\Scripts\Prawlers\TigerController.cs" />
     <Compile Include="Assets\ThirdParty\MonoSingleton.cs" />

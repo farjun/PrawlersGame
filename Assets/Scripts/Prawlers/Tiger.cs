@@ -9,8 +9,8 @@ namespace Prawlers
     {
         //constants
 
-        private const float XSpeed = 100.0f;
-        private const float YSpeed = 100.0f;
+        private const float XSpeed = 3.0f;
+        private const float YSpeed = 3.0f;
 
         private Rigidbody2D _body;
 

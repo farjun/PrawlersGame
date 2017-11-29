@@ -49,6 +49,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="Prawlers" t="Include">
+            <e p="Antilope.cs" t="Include" />
             <e p="Tiger.cs" t="Include" />
             <e p="TigerController.cs" t="Include" />
           </e>

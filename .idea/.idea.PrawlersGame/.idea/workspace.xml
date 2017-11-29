@@ -33,19 +33,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tiger.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tiger.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Tiger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+            <state relative-caret-position="538">
+              <caret line="68" column="9" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="68" selection-end-column="9" />
               <folding>
-                <marker date="1511889148628" expanded="true" signature="6:74" ph="..." />
-                <marker date="1511889148628" expanded="true" signature="94:1664" ph="{...}" />
-                <marker date="1511889148628" expanded="true" signature="140:1662" ph="{...}" />
-                <marker date="1511889148628" expanded="true" signature="551:620" ph="{...}" />
-                <marker date="1511889148628" expanded="true" signature="627:892" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
-                <marker date="1511889148628" expanded="true" signature="936:1374" ph="{...}" />
-                <marker date="1511889148628" expanded="true" signature="1405:1656" ph="{...}" />
+                <marker date="1511890465924" expanded="true" signature="6:74" ph="..." />
+                <marker date="1511890465924" expanded="true" signature="94:1660" ph="{...}" />
+                <marker date="1511890465924" expanded="true" signature="140:1658" ph="{...}" />
+                <marker date="1511890465924" expanded="true" signature="547:616" ph="{...}" />
+                <marker date="1511890465924" expanded="true" signature="623:888" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
+                <marker date="1511890465924" expanded="true" signature="932:1370" ph="{...}" />
+                <marker date="1511890465924" expanded="true" signature="1401:1652" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Antilope.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Antilope.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding>
+                <marker date="1511891352116" expanded="true" signature="38:741" ph="{...}" />
+                <marker date="1511891352116" expanded="true" signature="82:739" ph="{...}" />
+                <marker date="1511891352116" expanded="true" signature="164:233" ph="{...}" />
+                <marker date="1511891352116" expanded="true" signature="240:505" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
+                <marker date="1511891352116" expanded="true" signature="549:626" ph="{...}" />
+                <marker date="1511891352116" expanded="true" signature="657:733" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -54,15 +71,15 @@
       <file leaf-file-name="TigerController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/TigerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding>
-                <marker date="1511885480938" expanded="true" signature="38:756" ph="{...}" />
-                <marker date="1511885480938" expanded="true" signature="154:754" ph="{...}" />
-                <marker date="1511885480938" expanded="true" signature="359:424" ph="{...}" />
-                <marker date="1511885480938" expanded="true" signature="463:527" ph="{...}" />
-                <marker date="1511885480938" expanded="true" signature="564:626" ph="{...}" />
-                <marker date="1511885480938" expanded="true" signature="665:729" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="38:1417" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="154:1415" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="487:691" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="730:928" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="965:1153" ph="{...}" />
+                <marker date="1511890403703" expanded="true" signature="1192:1390" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,6 +93,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Tiger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Triangulator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Antilope.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/TigerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -84,6 +102,7 @@
         <option value="$PROJECT_DIR$/Assets/ThirdParty/Triangulator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Prawlers/TigerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Prawlers/Tiger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Prawlers/Antilope.cs" />
       </list>
     </option>
   </component>
@@ -187,12 +206,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511882364925</updated>
       <workItem from="1511882379658" duration="1601000" />
-      <workItem from="1511884129036" duration="3792000" />
+      <workItem from="1511884129036" duration="5726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5393000" />
+    <option name="totallyTimeSpent" value="7327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,13 +285,13 @@
         <state relative-caret-position="221">
           <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
-            <marker date="1511889148628" expanded="true" signature="6:74" ph="..." />
-            <marker date="1511889148628" expanded="true" signature="94:1664" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="140:1662" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="551:620" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="627:892" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
-            <marker date="1511889148628" expanded="true" signature="936:1374" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="1405:1656" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="6:74" ph="..." />
+            <marker date="1511890465924" expanded="true" signature="94:1660" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="140:1658" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="547:616" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="623:888" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
+            <marker date="1511890465924" expanded="true" signature="932:1370" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="1401:1652" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -299,31 +318,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/TigerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding>
-            <marker date="1511885480938" expanded="true" signature="38:756" ph="{...}" />
-            <marker date="1511885480938" expanded="true" signature="154:754" ph="{...}" />
-            <marker date="1511885480938" expanded="true" signature="359:424" ph="{...}" />
-            <marker date="1511885480938" expanded="true" signature="463:527" ph="{...}" />
-            <marker date="1511885480938" expanded="true" signature="564:626" ph="{...}" />
-            <marker date="1511885480938" expanded="true" signature="665:729" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="38:1417" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="154:1415" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="487:691" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="730:928" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="965:1153" ph="{...}" />
+            <marker date="1511890403703" expanded="true" signature="1192:1390" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Tiger.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="38" column="57" lean-forward="true" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+        <state relative-caret-position="538">
+          <caret line="68" column="9" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="68" selection-end-column="9" />
           <folding>
-            <marker date="1511889148628" expanded="true" signature="6:74" ph="..." />
-            <marker date="1511889148628" expanded="true" signature="94:1664" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="140:1662" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="551:620" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="627:892" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
-            <marker date="1511889148628" expanded="true" signature="936:1374" ph="{...}" />
-            <marker date="1511889148628" expanded="true" signature="1405:1656" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="6:74" ph="..." />
+            <marker date="1511890465924" expanded="true" signature="94:1660" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="140:1658" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="547:616" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="623:888" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
+            <marker date="1511890465924" expanded="true" signature="932:1370" ph="{...}" />
+            <marker date="1511890465924" expanded="true" signature="1401:1652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prawlers/Antilope.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <marker date="1511891352116" expanded="true" signature="38:741" ph="{...}" />
+            <marker date="1511891352116" expanded="true" signature="82:739" ph="{...}" />
+            <marker date="1511891352116" expanded="true" signature="164:233" ph="{...}" />
+            <marker date="1511891352116" expanded="true" signature="240:505" ph="/* private void OnCollisionEnter2D(Collision2D other) ... */" />
+            <marker date="1511891352116" expanded="true" signature="549:626" ph="{...}" />
+            <marker date="1511891352116" expanded="true" signature="657:733" ph="{...}" />
           </folding>
         </state>
       </provider>
